@@ -1,4 +1,4 @@
 # statistics
-Part 3 of Udacity Course project.
+Repository with my project for Practical Statistics part of my course.
 
-Understanding results of A/B Test to see if the company should implement new page design.
+This project was to test  my understanding by analysing the results of A/B Test to see if the company should implement new page design.
